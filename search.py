@@ -1,5 +1,5 @@
 import meilisearch
-rom dotenv import load_dotenv
+from dotenv import load_dotenv
 import os
 load_dotenv()
 meilisearch_master_key = os.getenv("MEILISEARCH_MASTER_KEY")
