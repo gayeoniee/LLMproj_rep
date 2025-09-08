@@ -1,5 +1,6 @@
 *.csv
 .env
 __pycache__
-.jpg
-.png
+*.jpg
+*.png
+*.json
